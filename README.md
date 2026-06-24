@@ -1,7 +1,5 @@
 # Bayesian GMM Clustering for Breast Cancer Diagnosis
 
-MATH 345 Probability & Statistics, Spring 2026
-
 **Giorgi Karazanashvili**
 
 ## Overview
